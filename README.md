@@ -1,5 +1,5 @@
 # Legal & Ethical Issues in Web Scraping
-A workshop covering the ethical and legal elements to consider when web scraping. 
+A workshop covering the legal and ethical factors to consider when web scraping in research contexts.
 
 ## Getting ready
 This is a beginner-level event, and no previous knowledge of the method is required. Bring your laptop, your charger, and your questions about web scraping and ethical data collection. 
