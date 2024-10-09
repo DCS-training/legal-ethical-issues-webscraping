@@ -43,6 +43,9 @@ Rebekah Tromble, ['Where Have All the Data Gone? A Critical Reflection on Academ
 
 Deen Freelon, ['Computational Research in the Post-API Age'](https://doi.org/10.1080/10584609.2018.1477506)
 
+YouTube tutorial: ['How to web scrape in RStudio'](https://www.youtube.com/watch?v=Sz9bANIXTlc)
+
+Ryan Mitchell, ['Web scraping with Python' book](https://www.amazon.co.uk/Web-Scraping-Python-Ryan-Mitchell/dp/1491985577) 
 
 
 ## License 
