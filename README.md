@@ -18,9 +18,9 @@ First, we discuss key issues, including terms of service (ToS) violations, copyr
 
 14:30-14:50 Group activity & discussion
 
-14:50-14:55 Comfort break
+Comfort break
 
-14:55-15:10 Data privacy, ethics, and the law
+15:-00-15:10 Data privacy, ethics, and the law
 
 15:10-15:30 Group activity & discussion
 
