@@ -29,11 +29,12 @@ Comfort break
 15:50-16:00 Conclusion 
 
 ## Additional resources
-['Terms of Service; Didn't Read'](https://tosdr.org/): a project collating summaries of platforms' Terms of Service agreements
 
 [CAHSS Research Ethics and Integrity guidance and support](https://www.ed.ac.uk/arts-humanities-soc-sci/research-ke/research-support/ethics#:~:text=All%20research%20activities%20must%20comply,and%20students%20in%20the%20College.)
 
 University of Edinburgh's [Research Ethics Policy](https://www.ed.ac.uk/sites/default/files/atoms/files/university_of_edinburgh_ethics_policy_0.pdf)
+
+['Terms of Service; Didn't Read'](https://tosdr.org/): a project collating summaries of platforms' Terms of Service agreements
 
 IBM, [What is an API (application programming interface)?](https://www.ibm.com/topics/api)
 
